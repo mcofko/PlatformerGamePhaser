@@ -1,0 +1,93 @@
+{"frames": {
+
+"Wild_Lion_000.png":
+{
+	"frame": {"x":1607,"y":411,"w":315,"h":367},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":33,"w":315,"h":367},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_001.png":
+{
+	"frame": {"x":1607,"y":1,"w":350,"h":408},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":33,"w":350,"h":408},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_002.png":
+{
+	"frame": {"x":1209,"y":440,"w":382,"h":425},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":29,"w":382,"h":425},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_004.png":
+{
+	"frame": {"x":1,"y":1,"w":407,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":19,"w":407,"h":442},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_005.png":
+{
+	"frame": {"x":1,"y":445,"w":407,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":19,"w":407,"h":442},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_085.png":
+{
+	"frame": {"x":817,"y":1,"w":405,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":19,"w":405,"h":437},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_086.png":
+{
+	"frame": {"x":410,"y":445,"w":405,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":19,"w":405,"h":439},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_087.png":
+{
+	"frame": {"x":410,"y":1,"w":405,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":19,"w":405,"h":442},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_088.png":
+{
+	"frame": {"x":817,"y":440,"w":390,"h":431},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":25,"w":390,"h":431},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_089.png":
+{
+	"frame": {"x":1224,"y":1,"w":381,"h":425},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":27,"w":381,"h":425},
+	"sourceSize": {"w":480,"h":480}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lion_opt_anim-5.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "lion_opt_anim-0.json", "lion_opt_anim-1.json", "lion_opt_anim-2.json", "lion_opt_anim-3.json", "lion_opt_anim-4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:91ed826a7af5c5b678851ffb80f654a4:b12a386f032c57fc798ebbbe80a46f63:18a2c4dda1cd81b86288c46c30c6f2c5$"
+}
+}

@@ -1,0 +1,733 @@
+{"frames": {
+
+"WILD_Cleopatra_0009.png":
+{
+	"frame": {"x":1803,"y":1482,"w":192,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":192,"h":206},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0010.png":
+{
+	"frame": {"x":1809,"y":1058,"w":194,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":194,"h":206},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0011.png":
+{
+	"frame": {"x":207,"y":1067,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0012.png":
+{
+	"frame": {"x":212,"y":855,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0013.png":
+{
+	"frame": {"x":412,"y":853,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0014.png":
+{
+	"frame": {"x":422,"y":641,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0015.png":
+{
+	"frame": {"x":612,"y":853,"w":195,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":195,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0016.png":
+{
+	"frame": {"x":622,"y":640,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0017.png":
+{
+	"frame": {"x":633,"y":428,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0018.png":
+{
+	"frame": {"x":635,"y":216,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0019.png":
+{
+	"frame": {"x":822,"y":640,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0020.png":
+{
+	"frame": {"x":3,"y":1491,"w":197,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":197,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0021.png":
+{
+	"frame": {"x":3,"y":1703,"w":197,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":197,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0022.png":
+{
+	"frame": {"x":833,"y":428,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0023.png":
+{
+	"frame": {"x":1022,"y":640,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0024.png":
+{
+	"frame": {"x":1458,"y":3,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0025.png":
+{
+	"frame": {"x":1659,"y":3,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0026.png":
+{
+	"frame": {"x":214,"y":641,"w":204,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":204,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0027.png":
+{
+	"frame": {"x":3,"y":3,"w":207,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":207,"h":209},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0028.png":
+{
+	"frame": {"x":3,"y":216,"w":207,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":207,"h":209},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0029.png":
+{
+	"frame": {"x":214,"y":3,"w":207,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":207,"h":209},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0030.png":
+{
+	"frame": {"x":214,"y":429,"w":207,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":207,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0031.png":
+{
+	"frame": {"x":425,"y":216,"w":206,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":206,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0032.png":
+{
+	"frame": {"x":846,"y":3,"w":204,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":204,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0033.png":
+{
+	"frame": {"x":1839,"y":214,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0034.png":
+{
+	"frame": {"x":1213,"y":852,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0035.png":
+{
+	"frame": {"x":808,"y":1277,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0036.png":
+{
+	"frame": {"x":1008,"y":1276,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0037.png":
+{
+	"frame": {"x":1012,"y":852,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0038.png":
+{
+	"frame": {"x":1035,"y":214,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0039.png":
+{
+	"frame": {"x":1409,"y":1063,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0040.png":
+{
+	"frame": {"x":1236,"y":214,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0041.png":
+{
+	"frame": {"x":1409,"y":1274,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0042.png":
+{
+	"frame": {"x":1054,"y":3,"w":198,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":198,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0043.png":
+{
+	"frame": {"x":205,"y":1279,"w":197,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":197,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0044.png":
+{
+	"frame": {"x":204,"y":1491,"w":197,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":197,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0045.png":
+{
+	"frame": {"x":1437,"y":214,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0046.png":
+{
+	"frame": {"x":204,"y":1703,"w":197,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":197,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0047.png":
+{
+	"frame": {"x":1638,"y":214,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0048.png":
+{
+	"frame": {"x":406,"y":1279,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0049.png":
+{
+	"frame": {"x":607,"y":1065,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0050.png":
+{
+	"frame": {"x":607,"y":1276,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0051.png":
+{
+	"frame": {"x":405,"y":1491,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0052.png":
+{
+	"frame": {"x":1033,"y":427,"w":195,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":195,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0053.png":
+{
+	"frame": {"x":1222,"y":638,"w":195,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":195,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0054.png":
+{
+	"frame": {"x":405,"y":1702,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0055.png":
+{
+	"frame": {"x":1232,"y":425,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0056.png":
+{
+	"frame": {"x":1432,"y":425,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0057.png":
+{
+	"frame": {"x":1632,"y":425,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0058.png":
+{
+	"frame": {"x":1832,"y":425,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0059.png":
+{
+	"frame": {"x":1421,"y":636,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0060.png":
+{
+	"frame": {"x":1621,"y":636,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0061.png":
+{
+	"frame": {"x":1821,"y":636,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0062.png":
+{
+	"frame": {"x":1208,"y":1063,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0063.png":
+{
+	"frame": {"x":1208,"y":1274,"w":197,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":197,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0064.png":
+{
+	"frame": {"x":1256,"y":3,"w":198,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":198,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0065.png":
+{
+	"frame": {"x":1413,"y":849,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0066.png":
+{
+	"frame": {"x":1613,"y":847,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0067.png":
+{
+	"frame": {"x":1813,"y":847,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0068.png":
+{
+	"frame": {"x":605,"y":1490,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0069.png":
+{
+	"frame": {"x":605,"y":1701,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0070.png":
+{
+	"frame": {"x":805,"y":1488,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0071.png":
+{
+	"frame": {"x":811,"y":852,"w":197,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":197,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0072.png":
+{
+	"frame": {"x":835,"y":215,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0073.png":
+{
+	"frame": {"x":407,"y":1067,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0074.png":
+{
+	"frame": {"x":805,"y":1699,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0075.png":
+{
+	"frame": {"x":1005,"y":1488,"w":195,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":195,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0076.png":
+{
+	"frame": {"x":1005,"y":1699,"w":195,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":195,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0077.png":
+{
+	"frame": {"x":1204,"y":1487,"w":195,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":195,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0078.png":
+{
+	"frame": {"x":1204,"y":1698,"w":195,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":195,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0079.png":
+{
+	"frame": {"x":1403,"y":1485,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0080.png":
+{
+	"frame": {"x":1403,"y":1696,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0081.png":
+{
+	"frame": {"x":1603,"y":1485,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0082.png":
+{
+	"frame": {"x":1603,"y":1696,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0083.png":
+{
+	"frame": {"x":1609,"y":1060,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0084.png":
+{
+	"frame": {"x":1609,"y":1271,"w":196,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":196,"h":207},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0085.png":
+{
+	"frame": {"x":808,"y":1065,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0086.png":
+{
+	"frame": {"x":1008,"y":1064,"w":196,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":196,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0087.png":
+{
+	"frame": {"x":3,"y":1067,"w":200,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":200,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0088.png":
+{
+	"frame": {"x":425,"y":428,"w":204,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":204,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0089.png":
+{
+	"frame": {"x":3,"y":429,"w":207,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":207,"h":209},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0090.png":
+{
+	"frame": {"x":214,"y":216,"w":207,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":207,"h":209},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0091.png":
+{
+	"frame": {"x":425,"y":3,"w":207,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":207,"h":209},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0092.png":
+{
+	"frame": {"x":3,"y":642,"w":207,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":207,"h":209},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0093.png":
+{
+	"frame": {"x":636,"y":3,"w":206,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":206,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0094.png":
+{
+	"frame": {"x":3,"y":855,"w":205,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":205,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0095.png":
+{
+	"frame": {"x":3,"y":1279,"w":198,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":198,"h":208},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0096.png":
+{
+	"frame": {"x":1809,"y":1268,"w":194,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":194,"h":206},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0097.png":
+{
+	"frame": {"x":1803,"y":1692,"w":192,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":192,"h":206},
+	"sourceSize": {"w":207,"h":210}
+},
+"WILD_Cleopatra_0099.png":
+{
+	"frame": {"x":1860,"y":3,"w":183,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":8,"w":183,"h":200},
+	"sourceSize": {"w":207,"h":210}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cleopatra_anim-0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.46875",
+	"related_multi_packs": [ "cleopatra_anim-1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:fe24b911db0c37c40e235b97666897bc:5c541f63cb15a6f17542b23cf2714a4c:7cb92ded6d83c6e6a3ebf124418639f5$"
+}
+}

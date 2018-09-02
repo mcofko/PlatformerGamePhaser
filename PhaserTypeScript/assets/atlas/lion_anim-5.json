@@ -1,0 +1,85 @@
+{"frames": {
+
+"Wild_Lion_081.png":
+{
+	"frame": {"x":1,"y":1,"w":464,"h":474},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":3,"w":464,"h":474},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_082.png":
+{
+	"frame": {"x":467,"y":1,"w":448,"h":470},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":5,"w":448,"h":470},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_083.png":
+{
+	"frame": {"x":917,"y":1,"w":426,"h":458},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":12,"w":426,"h":458},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_084.png":
+{
+	"frame": {"x":1345,"y":1,"w":422,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":19,"w":422,"h":442},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_085.png":
+{
+	"frame": {"x":1,"y":477,"w":405,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":19,"w":405,"h":437},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_086.png":
+{
+	"frame": {"x":408,"y":477,"w":405,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":19,"w":405,"h":439},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_087.png":
+{
+	"frame": {"x":815,"y":477,"w":405,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":19,"w":405,"h":442},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_088.png":
+{
+	"frame": {"x":1222,"y":477,"w":390,"h":431},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":25,"w":390,"h":431},
+	"sourceSize": {"w":480,"h":480}
+},
+"Wild_Lion_089.png":
+{
+	"frame": {"x":1614,"y":477,"w":381,"h":425},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":27,"w":381,"h":425},
+	"sourceSize": {"w":480,"h":480}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lion_anim-5.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "lion_anim-0.json", "lion_anim-1.json", "lion_anim-2.json", "lion_anim-3.json", "lion_anim-4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:05c721330264428057a5526b8dd31d58:b12a386f032c57fc798ebbbe80a46f63:c7f84b63ec154054d26c50f125f3bb46$"
+}
+}
